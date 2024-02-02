@@ -5,7 +5,7 @@
 package professor;
 
 /** Feb 02,24
- *
+ * This is student branch
  * @author kumar
  */
 public class ProfessorDetails {
