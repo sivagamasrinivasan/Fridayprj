@@ -10,6 +10,7 @@ package professor;
  */
 public class ProfessorDetails {
     private String name;
+    private int salary;
 
     /**
      * @return the name
