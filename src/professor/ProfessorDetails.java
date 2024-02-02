@@ -11,6 +11,7 @@ package professor;
 public class ProfessorDetails {
     private String name;
     private int salary;
+    private int exp;
 
     /**
      * @return the name
